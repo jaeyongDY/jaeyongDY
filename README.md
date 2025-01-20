@@ -4,7 +4,6 @@
 
 
 #Language 
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge?logo=Go&logoColor=White)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge?logo=Python&logoColor=White)
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge?logo=Java&logoColor=White)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge?logo=JavaScript&logoColor=White)
