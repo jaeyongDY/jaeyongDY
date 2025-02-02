@@ -2,9 +2,7 @@
 
 ![jaeyongDY GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyongDY&show_icons=true&theme=radical)
 
-![Programmers Badge](https://raw.githubusercontent.com/jaeyongDY/Programmers_Badge_Generator/main/result/result.svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaeyongDY&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![jaeyongDY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaeyongDY&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #Language 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge?logo=Python&logoColor=White)
