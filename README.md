@@ -9,6 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge?logo=Java&logoColor=White)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge?logo=JavaScript&logoColor=White)
 ![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?style=for-the-badge?logo=Oracle&logoColor=White)
+![MYSQL](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge?logo=C&logoColor=White)
 
 
