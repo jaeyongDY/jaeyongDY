@@ -14,7 +14,7 @@
 
 
 #FrameWork
-![Spring](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge?logo=Django&logoColor=White)
 
 #Tool
